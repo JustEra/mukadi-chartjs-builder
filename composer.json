@@ -1,5 +1,5 @@
 {
-    "name": "mukadi/chartjs-builder",
+    "name": "justera/chartjs-builder",
     "description": "generate beautiful charts directly from SQL query in PHP",
     "type": "library",
     "license": "MIT",
